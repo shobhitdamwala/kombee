@@ -8,9 +8,7 @@ function App() {
 
   return (
     <>
-      <div>
-        Shobhit Chnages
-        </div>
+      <h1>Hello World shobhit</h1>
     </>
   )
 }
